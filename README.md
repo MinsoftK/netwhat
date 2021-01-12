@@ -31,11 +31,7 @@ Netwhat will allow you to discover the network and to learn about its inner work
 
 ## 3. 연습문제 
 
-* 문제출처
 
-[adblanc](https://github.com/adblanc)/**[netwhat42-train](https://github.com/adblanc/netwhat42-train)**  
-<br/>
-[365kim/42_cursus/2_netwhat](https://github.com/365kim/42_cursus/tree/master/2_netwhat)
 
 
 
@@ -44,3 +40,26 @@ Netwhat will allow you to discover the network and to learn about its inner work
 [10진수 <-> 2진수 변환기](https://ko.calcuworld.com/수학/2진법-계산기/)
 [IP주소 범위 계산기](http://jodies.de/ipcalc)
 [서브넷마스크 Reference Table](https://www.cloudaccess.net/cloud-control-panel-ccp/157-dns-management/322-subnet-masks-reference-table.html)
+
+
+
+### 💡 Trial Test
+
+1. [IP address](https://github.com/365kim/42_cursus/blob/master/2_netwhat/1_IP_address)
+2. [Public/Priave IP address](https://github.com/365kim/42_cursus/blob/master/2_netwhat/2_Public_Private_IP_address)
+3. [Subnet mask](https://github.com/365kim/42_cursus/blob/master/2_netwhat/3_Subnet_mask)
+4. [Network/Broadcast address](https://github.com/365kim/42_cursus/blob/master/2_netwhat/4_Network_Broadcast_address)
+5. [Host address](https://github.com/365kim/42_cursus/blob/master/2_netwhat/5_Host_address)
+6. [OSI model](https://github.com/365kim/42_cursus/blob/master/2_netwhat/6_OSI_model)
+7. [Application Layer](https://github.com/365kim/42_cursus/blob/master/2_netwhat/7_Application_layer)
+8. [Transport Layer](https://github.com/365kim/42_cursus/blob/master/2_netwhat/8_Transport_layer)
+9. [Network Layer](https://github.com/365kim/42_cursus/blob/master/2_netwhat/9_Network_layer)
+
+- Source : [adblanc/netwhat42-train](http://github.com/adblanc/netwhat42-train)
+
+
+
+* 문제출처
+
+[adblanc](https://github.com/adblanc)/**[netwhat42-train](https://github.com/adblanc/netwhat42-train)**
+[365kim/42_cursus/2_netwhat](https://github.com/365kim/42_cursus/tree/master/2_netwhat)
